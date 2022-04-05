@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rv9r5p8EkjWFL7pcZtd/JhyftoJj7k9BXB2V+YqfgaRIhIsEGkopv47FkgRa8RwtDh8m6VgPMS8mCPkfpeglHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jajo7\\source\\repos\\PILExtractor\\PILExtractor\\PILExtractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jajo7\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\jajo7\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
