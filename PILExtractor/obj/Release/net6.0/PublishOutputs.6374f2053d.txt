@@ -1,0 +1,10 @@
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\PILExtractor.exe
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\PILExtractor.dll
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\PILExtractor.deps.json
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\PILExtractor.runtimeconfig.json
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\PILExtractor.pdb
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\Microsoft.Win32.SystemEvents.dll
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\System.Drawing.Common.dll
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jajo7\Desktop\Dokapon\PILExtractor\runtimes\win\lib\net6.0\System.Drawing.Common.dll
